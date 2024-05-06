@@ -60,3 +60,4 @@ var ChatApp = window.ChatApp || {};
     };
 
 }(jQuery));
+
